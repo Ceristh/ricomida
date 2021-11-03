@@ -1,0 +1,120 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2.3125em;
+}
+
+h3 {
+    font-size: 1.875em;
+}
+
+h4 {
+    font-size: 1.4375em;
+}
+
+h5 {
+    font-size: 1.25em;
+}
+
+h6 {
+    font-size: 1em;
+}
+
+p {
+    font-size: 1em;
+}
+
+.navbar {
+    background-color: #373A3C;
+}
+
+.container {
+    width: 80%;
+}
+
+.navbar-bran {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+.pizza img {
+    object-fit: cover;
+}
+
+.titulo {
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.linea {
+    height: 1px;
+    background-color: #000000;
+}
+
+.carousel-indicators {
+    top: 105%;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.red-id {
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #373A3C;
+}
+
+.texto {
+    font-weight: 400;
+    font-size: 1.25em;
+    color: #373A3C;
+}
+
+.texto2 {
+    font-weight: 400;
+    color: #373A3C;
+}
+
+.linea2 {
+    height: 1px;
+    background-color: #000000;
+}
+
+.linea-titulos {
+    height: 1px;
+    background-color: #000000;
+    margin-right: 70%;
+}
+
+.suscribete-foot {
+    margin-top: 5em;
+    padding-top: 11%;
+    padding-bottom: 11%;
+}
+
+.marca {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+
+@media (max-width: 600px) {
+    
+    body {
+        font-size: 30px;
+    }
+    
+    .facet_sidebar {
+        display: none;
+    }
+}
